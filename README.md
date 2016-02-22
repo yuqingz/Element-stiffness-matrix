@@ -1,4 +1,4 @@
-# Element-stiffness-matrix-of-a-2D-rectangle-element
+# Element stiffness matrix of a 2D rectangle element
 
 This function computes the element stiffness matrix of an arbitrary 2D rectangle element (a special case of a quadrilaterial element). 
 
