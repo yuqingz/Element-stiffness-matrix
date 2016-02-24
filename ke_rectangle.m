@@ -30,7 +30,6 @@ function [ KE ] = ke_rectangle(a,b,h,E,nu)
 %   160222: created by Yuqing Zhou @ Univ. of Michigan;
 %   please contact yuqingz@umich.edu if you have any questions.
 
-
 KE_p = zeros(8,8);
 
 KE_p(1,1) = (8/3 - (8*nu)/3)*a^2 + (16*b^2)/3;
